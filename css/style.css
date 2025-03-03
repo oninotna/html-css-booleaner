@@ -2,6 +2,10 @@
     margin: 0;
 }
 
+body {
+    width: 1150px;
+}
+
 .main-header {
     background-image: url(../img/pattern.png);
     background-color: rgb(67, 166, 236);
@@ -48,6 +52,29 @@ main ul {
 
 table {
     font-weight: 800;
+    border-spacing: 0;
+}
+
+thead {
+    background-color: rgb(67, 166, 236);
+    text-align: left;
+    color: white;
+}
+
+tbody {
+    background-color: rgb(122, 216, 245) ;
+}
+
+th {
+    width: 300px;
+}
+
+.special {
+    width: 500px;
+}
+
+.central-row {
+    background-color: white;
 }
 
 footer {
