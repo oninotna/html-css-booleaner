@@ -30,8 +30,9 @@ body {
 .title-header div, time {
     color: rgb(177, 177, 177);
 }
-.title-header span {
+a {
     color: rgb(75, 213, 255);
+    text-decoration: none;
 }
 
 main {
