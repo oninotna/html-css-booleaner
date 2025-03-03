@@ -1,0 +1,46 @@
+* {
+    margin: 0;
+}
+
+.main-header {
+    background-image: url(../img/pattern.png);
+    background-color: rgb(67, 166, 236);
+    margin-bottom: 20px;
+}
+
+.main-header img {
+    width: 300px;
+    margin-top: 50px;
+    margin-left: 10px;
+}
+
+.title-header {
+    margin-left: 10px;
+    margin-bottom: 20px;
+}
+
+.title-header h1 {
+    font-size: 42px;
+}
+
+.title-header div, time {
+    color: rgb(177, 177, 177);
+}
+.title-header span {
+    color: rgb(75, 213, 255);
+}
+
+main {
+    margin-left: 10px;
+}
+main p {
+    margin-top: 20px;
+    font-weight: 800;
+}
+
+main ul {
+    margin-top: 30px;
+    margin-left: 10px;
+    padding-left: 10px;
+    font-weight: 800;
+}
